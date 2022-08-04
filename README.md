@@ -3,6 +3,20 @@ A small collection of [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop) mod
 
 ---
 
+### Project OwOify
+
+*Now ported to sm64ex-coop!*
+
+- This mod adds both **Mawio** (now colorable via palettes) and all existing modified/cursed textures into the game.
+  - Mawio can be toggled by selecting Mario and using the `/mawio` command.
+- Note the original texture pack was never really finished, so not all levels have been edited.
+
+`Original mod created by K1LLRxK1TT3H, chloerawr, Napstio, sm64rise (me), and KawaiiTemDev. Ported by me with permission`
+
+![image](https://user-images.githubusercontent.com/44985633/182910027-92146598-dbe6-4030-85f3-0647d735f014.png)
+
+---
+
 ### Machinima
 
 ```
